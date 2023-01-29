@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html lang="en"> 
+
+<head>
+    <meta charset="UTF-8"
+</head>
+
+<body>
+<h1 style="text-align:center;"> Cooking Recipe For Egusi Soup</h1>
+<img src="../images/egusi.jpg" alt="Egusi soup">
+
+<p> 
+    <strong>Ingredients:</strong>
+<br>
+<ul>
+<li>Melon seeds</li>
+<li>Palm oil</li>
+<li>Onions&Pepper</li>
+<li>Salt</li>
+<li>Seasoning cubes</li>
+<li>Beef or Fish</li>
+<li>Water</li>
+</ul>
+</p>
+
+<p>
+    <strong>Process to Cook</strong>
+    <br>
+    <ol>
+        <li>Blend pepper and onion</li>
+        <li>Heat palm oil in pot</li>
+        <li>Add some chopped onions to heating palm oil</li>
+        <li>Pour in blended mix of onions and pepper</li>
+        <li>Add salt and seasoning cubes to taste</li>
+        <li>Leave to simmer and cook for 3mins</li>
+        <li>Add beef or fish</li>
+        <li>Cook for 15mins</li>
+    </ol>
+    <br>
+    <em>Voila!</em> egusi soup is ready.
+
+</p>
+
+</body>
+</html>
