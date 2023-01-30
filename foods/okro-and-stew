@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
 </head>
@@ -42,5 +43,8 @@
   </p>
   <br>
   <em>Voila!</em> Okra and Stew is ready.
+  <br>
+  <p>
+  <a href="../index.html">Homepage</a></p>
 </body>
 </html>
