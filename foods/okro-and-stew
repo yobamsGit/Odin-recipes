@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+  <h1 style="text-align:center;">Cooking Recipe For Okra and Stew</h1>  
+  <img src="../images/okro-and-stew.jpg" alt="okra and stew">
+  <br>
+  <p>
+  <strong>Ingredients:</strong>
+  <ul>
+    <li>Okras</li>
+    <li>Locust Beans</li>
+    <li>Palm Oil</li>
+    <li>Beef, Chicken or Fish</li>
+    <li>Salt and Seasonings</li>
+    <li>Red Peppers, Tomatoes and Onions</li>
+  </ul>
+  </p>
+
+  <p>
+    <strong>Process to Cook(Stew)</strong>
+    <ol>
+        <li>Blend Red Peppers, Tomatoes and Onions into puree</li>
+        <li>Pour puree in a pot and add palm oil</li>
+        <li>Add salt and seasonings to taste</li>
+        <li>Leave to simmer for 3mins</li>
+        <li>Put in the Beef, Chicken or Fish</li>
+    </ol>
+  </p>
+
+  <p>Process to Cook(Okra)
+  <ol>
+    <li>Pour some water in a pot</li>
+    <li>Pour in the blended okra</li>
+    <li>Add your locust beans</li>
+    <li>Add salt to taste</li>
+    <li>Cover and cook for 5mins</li>
+  </ol>
+  </p>
+  <br>
+  <em>Voila!</em> Okra and Stew is ready.
+</body>
+</html>
