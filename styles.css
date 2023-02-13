@@ -7,3 +7,20 @@ h1{
     text-align: center;
     font-weight: bold;
 }
+
+.number1,
+.number3,
+.number5{
+    background-color: lightpink;
+
+}
+
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+
+#number4{
+    background-color: lightgreen;
+    font-weight: bold;
+}
