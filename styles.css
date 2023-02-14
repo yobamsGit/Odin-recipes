@@ -8,11 +8,12 @@ h1{
     font-weight: bold;
 }
 
-.number1,
-.number3,
-.number5{
+.number{
     background-color: lightpink;
+}
 
+.adjust-font-size{
+    font-size: 24px;
 }
 
 #number2{
