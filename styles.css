@@ -29,16 +29,12 @@ h1{
 }
 
 .soup,
-.slimy{
+.slimy,
+.inverted{
 font-size: 28px;
 font-family: Helvitica, 'Times New Roman', sans-serif;
 }
 
-.soup{
-    background-color: black;
-    color: white;
-}
-
-.slimy{
+.inverted{
     background-color: yellow;
 }
